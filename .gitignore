@@ -1,0 +1,17 @@
+# Ignora la cartella virtual environment
+.venv/
+
+# Ignora file di configurazione specifici dell'IDE
+.vscode/
+*.code-workspace
+
+# Ignora file di sistema
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignora file di log
+*.log
+
+# Ignora file di output Jupyter Notebook
+.ipynb_checkpoints/
